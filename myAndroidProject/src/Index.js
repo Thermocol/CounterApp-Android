@@ -51,7 +51,7 @@ export default function login()
 <Button
     onPress={reset}
     title="RESET"
-    color="#808080  "
+    color="#808080"
     accessibilityLabel="Learn more about this purple button"
     />
 
@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
         height:5,
       },
       textShadowRadius: 0.1,
-      textShadowColor: 'grey',
+      textShadowColor: 'gray',
       
       
       
@@ -148,7 +148,7 @@ const styles = StyleSheet.create({
         height:5,
       },
       textShadowRadius: 0.1,
-      textShadowColor: 'grey',
+      textShadowColor: 'gray',
       
       
       
