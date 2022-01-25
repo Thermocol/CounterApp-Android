@@ -10,7 +10,7 @@ From here I got the idea that I can place the icons in a different color backgro
 Home Screen:
 1. Basic UI:
 
- ![](myAndroidProject/assign/CA2.png)
+ ![](myAndroidProject/assign/CA2.png | width=50) 
 
 
 
@@ -23,7 +23,7 @@ Home Screen:
  
  
  
-  ![](myAndroidProject/assign/CA3.png)
+  ![](myAndroidProject/assign/CA3.png | width=50)
   
   
 2. Decrement:
@@ -34,13 +34,13 @@ Home Screen:
  
  
  
-  ![](myAndroidProject/assign/CA1.png)
+  ![](myAndroidProject/assign/CA1.png | width=50)
 
 
 3. Reset:
     When we click on reset button the value is set to 0.
     
-    ![](myAndroidProject/assign/CA2.png)
+    ![](myAndroidProject/assign/CA2.png | width=50)
     
     
     
