@@ -4,7 +4,7 @@ By:V.S.Sai Rashwant 20BCE1332
 Home Screen:
 1. Basic UI:
 
- ![](myAndroidProject/assign/CA1.png)
+ ![](myAndroidProject/assign/CA3.png)
 
 
 
@@ -28,12 +28,13 @@ Home Screen:
  
  
  
-  ![](myAndroidProject/assign/CA3.png)
+  ![](myAndroidProject/assign/CA1.png)
 
 
 3. Reset:
     When we click on reset button the value is set to 0.
     
+    ![](myAndroidProject/assign/CA1.png)
     
     
     
