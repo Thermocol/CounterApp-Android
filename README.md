@@ -5,6 +5,8 @@ Design Inspiration:
 https://dribbble.com/shots/17341100-Smart-Home-App?utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Smart%20Home%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Smart%20Home%20App&utm_medium=Social_Share
 
 From here I got the idea that I can place the icons in a different color background with curved edges. Also I got the idea of using a particular color scheme for this app ( ie reddish pink )
+
+
 Home Screen:
 1. Basic UI:
 
