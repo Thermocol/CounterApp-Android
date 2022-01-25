@@ -27,7 +27,7 @@ https://dribbble.com/shots/17341100-Smart-Home-App?utm_source=Clipboard_Shot&utm
   
   
  2. Decrement:
-   When we click on the increment button the number decreases by 1. ( Here for -5 I clicked it 5 times )
+   When we click on the decrement button the number decreases by 1. ( Here for -5 I clicked it 5 times )
  
  
  
