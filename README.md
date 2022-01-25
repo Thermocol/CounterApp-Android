@@ -17,7 +17,7 @@ Home Screen:
  
  
  
-  ![](myAndroidProject/assign/CN2.png)
+  ![](myAndroidProject/assign/CA2.png)
   
   
 2. Decrement:
@@ -28,14 +28,14 @@ Home Screen:
  
  
  
-  ![](myAndroidProject/assign/CN2.png)
+  ![](myAndroidProject/assign/CA3.png)
 
 
 3. Reset:
     When we click on reset button the value is set to 0.
     
     
-    ![](myAndroidProject/assign/CN3.png)
+    
     
 
 
