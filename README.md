@@ -4,7 +4,7 @@ By:V.S.Sai Rashwant 20BCE1332
 Home Screen:
 1. Basic UI:
 
- ![](myAndroidProject/assign/CA3.png)
+ ![](myAndroidProject/assign/CA2.png)
 
 
 
@@ -17,7 +17,7 @@ Home Screen:
  
  
  
-  ![](myAndroidProject/assign/CA2.png)
+  ![](myAndroidProject/assign/CA3.png)
   
   
 2. Decrement:
