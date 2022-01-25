@@ -10,7 +10,7 @@ Home Screen:
 
 
 2. Increment:
-   When we click on the increment button the number increases by 1.
+   When we click on the increment button the number increases by 1. ( Here for 6 I clicked it 6 times )
  
  
  
@@ -21,7 +21,7 @@ Home Screen:
   
   
 2. Decrement:
-   When we click on the increment button the number decreases by 1.
+   When we click on the increment button the number decreases by 1. ( Here for -5 I clicked it 5 times )
  
  
  
