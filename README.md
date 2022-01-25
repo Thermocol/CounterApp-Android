@@ -34,7 +34,7 @@ Home Screen:
 3. Reset:
     When we click on reset button the value is set to 0.
     
-    ![](myAndroidProject/assign/CA1.png)
+    ![](myAndroidProject/assign/CA2.png)
     
     
     
